@@ -1,4 +1,4 @@
-module example.com/go-revolution
+module github.com/andygr1n1/go-revolution
 
 go 1.26.2
 
